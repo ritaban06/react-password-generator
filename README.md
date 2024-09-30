@@ -16,7 +16,7 @@ This is a **Password Generator** built using **React JS**. The app allows users 
 
 ## Demo
 
-You can view a live demo of the app [here](#).
+You can view a live demo of the app [here](#http://test2006.wuaze.com/?i=1).
 
 ## Installation
 
